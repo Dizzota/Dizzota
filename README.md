@@ -1,4 +1,4 @@
-### Hi there 👋
+![diz v3rmillion banner - november 14 2021](https://user-images.githubusercontent.com/49292820/212777950-346f7dcf-d901-4c4b-8529-4157e9e4888b.png)
 
 <!--
 **Dizzota/Dizzota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
